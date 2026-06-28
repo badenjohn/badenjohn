@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://badenjohn.dev">
+    <img src="badenjohn-readme-banner.png" alt="Baden John — Systems Developer, Linux Architect, Automation" width="100%" />
+  </a>
+</p>
 
-<!--
-**badenjohn/badenjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I build the layer beneath the layer you see — kernel-adjacent code,
+> reproducible infrastructure, and the pipelines that ship it.
+> Quietly, reliably, fast.
 
-Here are some ideas to get you started:
+```text
+$ whoami
+baden john — systems developer · linux architect · automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat principles.txt
+01  low-level first       know the machine before you trust the abstraction
+02  measure, then cut     latency budgets decide architecture, not vibes
+03  reliability by design build for graceful degradation, not the happy path
+04  automate the toil     done twice by hand → it becomes a script
+05  simple over clever    boring tech, sharp execution
+```
+
+`Linux` / `eBPF` / `Rust` / `Kubernetes` / `Automation` / `Nix` / `Observability` / `gRPC` / `Kernel`
+
+**Now —** sharpening low-level fundamentals & building badenjohn.dev in the open.
+
+**[badenjohn.dev](https://badenjohn.dev)** · [hello@badenjohn.dev](mailto:hello@badenjohn.dev)
+
+<sub>● Open to work · Rev. 2026</sub>
