@@ -4,10 +4,6 @@
   </a>
 </p>
 
-> I build the layer beneath the layer you see — kernel-adjacent code,
-> reproducible infrastructure, and the pipelines that ship it.
-> Quietly, reliably, fast.
-
 ```text
 $ whoami
 baden john — systems developer · linux architect · automation
