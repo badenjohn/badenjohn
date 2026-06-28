@@ -22,8 +22,6 @@ $ cat principles.txt
 
 `Linux` / `eBPF` / `Rust` / `Kubernetes` / `Automation` / `Nix` / `Observability` / `gRPC` / `Kernel`
 
-**Now —** sharpening low-level fundamentals & building badenjohn.dev in the open.
-
 **[badenjohn.dev](https://badenjohn.dev)** · [hello@badenjohn.dev](mailto:hello@badenjohn.dev)
 
 <sub>● Open to work · Rev. 2026</sub>
